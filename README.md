@@ -1,8 +1,3 @@
-![image](https://user-images.githubusercontent.com/96245472/199403843-91534508-e995-451b-908b-ba973c0315e2.png)
+![image](https://user-images.githubusercontent.com/96245472/199408070-6b8e5fcc-a85c-48e1-8eaa-a176a783d751.png)
 
-
-### For 1 year I study programming and design in a self-taught way.
-
-### In case of interest you can look at my public repositories.
-
-## Thank you.
+![image](https://user-images.githubusercontent.com/96245472/199407464-564e1863-a681-4527-a572-9f97d7af1fe7.png)
